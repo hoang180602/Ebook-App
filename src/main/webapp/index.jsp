@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>HOANG JAVA</title>
+<title>HOANG EBOOK</title>
 <%@include file="all_component/allCss.jsp"%>
 <style type="text/css">
 .back-img {
@@ -41,9 +41,10 @@
 						<p>The Wikibooks Edition</p>
 						<p>Categories: New</p>
 						<div class="row">
-							<a href="" class="btn btn-danger btn-sm ml-2"><i class="fa-solid fa-cart-shopping"></i>Add Card</a> <a
-								href="" class="btn btn-success btn-sm ml-1">View Details</a> <a
-								href="" class="btn btn-danger btn-sm ml-1">299</a>
+							<a href="" class="btn btn-danger btn-sm ml-2"><i
+								class="fa-solid fa-cart-shopping"></i>Add Card</a> <a href=""
+								class="btn btn-success btn-sm ml-1">View Details</a> <a href=""
+								class="btn btn-danger btn-sm ml-1">299</a>
 						</div>
 					</div>
 				</div>
@@ -219,8 +220,8 @@
 						<p>The Wikibooks Edition</p>
 						<p>Categories: New</p>
 						<div class="row">
-							<a href="" class="btn btn-success btn-sm ml-5">View Details</a>
-							<a href="" class="btn btn-danger btn-sm ml-1">299</a>
+							<a href="" class="btn btn-success btn-sm ml-5">View Details</a> <a
+								href="" class="btn btn-danger btn-sm ml-1">299</a>
 						</div>
 					</div>
 				</div>
@@ -264,8 +265,8 @@
 	</div>
 
 	<!-- End Old Book  -->
-	
-	<%@include file="all_component/footer.jsp" %>
+
+	<%@include file="all_component/footer.jsp"%>
 
 </body>
 </html>
